@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/GJMLucks'>Github Link</a>. gksrpa10@gmail.com Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cat_of_my_friend.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: there is no suitable photo, so I substituted a photo of my friend's cat.
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
